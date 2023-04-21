@@ -13,6 +13,8 @@ python MediaRename.py path
 
 Ex: python MediaRename.py /home/username/Movies/
 
+Note: I have not implemented to check if the destination exists before renaming, use caution!
+
 
 # Credits
 
